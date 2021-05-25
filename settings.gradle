@@ -1,0 +1,4 @@
+include ':binder_compiler'
+include ':binder_annotation'
+include ':app'
+rootProject.name = "AptEx"
